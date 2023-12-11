@@ -1,0 +1,22 @@
+{
+  "name": "gh-action-js-marathon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc -p tsconfig.build.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ESafonov/gh-action-js-marathon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ESafonov/gh-action-js-marathon/issues"
+  },
+  "homepage": "https://github.com/ESafonov/gh-action-js-marathon#readme",
+  "devDependencies": {
+    "@types/node": "^20.10.4"
+  }
+}
