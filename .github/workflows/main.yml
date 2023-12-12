@@ -25,3 +25,5 @@ jobs:
 
       - name: Run my action
         uses: ./
+        with:
+          name: 'This Dot Labs'
